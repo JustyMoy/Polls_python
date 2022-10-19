@@ -29,14 +29,14 @@ I learned that creating a successful project, isn't determined by it's complexit
   <tr>
     <td width="33.3%" valign="top">
     
-<a target="_blank" href="https://github.com/JustyMoy/Polls_python">Reminding Checklist</a>
+<a target="_blank" href="https://github.com/JustyMoy/CheckList">Reminding Checklist</a>
         <br />
       <a target="_blank" href="https://github.com/JustyMoy/CheckList">
    <img src ="https://media.giphy.com/media/Vc6Pg0TjiUt1KC5tmY/giphy.gif" />
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/JustyMoy/portfolioSalon"> Portfolio Website</a>
+<a target="_blank" href="https://github.com/JustyMoy/PortfolioWebsite"> Portfolio Website</a>
         <br />
       <a target="_blank" href="https://github.com/JustyMoy/PortfolioWebsite">
    <img src="https://media.giphy.com/media/uCoD3fryp5dnLEn9hT/giphy.gif" />
